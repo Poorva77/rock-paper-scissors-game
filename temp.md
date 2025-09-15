@@ -2,6 +2,8 @@
 
 This is a simple **Stone-Paper-Scissor (Rock-Paper-Scissors)** game built using **JavaScript, HTML, and CSS**. The player competes against the computer, which makes randomized choices. The project demonstrates basic game logic, DOM manipulation, and responsive UI styling.  
 
+## Play - https://poorva77.github.io/rock-paper-scissors-game/
+
 ## Features  
 - Play Stone-Paper-Scissor against a computer opponent.  
 - Randomized computer moves using JavaScript.  
